@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ahihi do ngoc, toi nay 8h choi game nhe
+=======
+ahihi do ngoc, co y conflic ne
+>>>>>>> e3c40214e6f213cb8f239b49f78860f6aadccf9e
